@@ -1,5 +1,5 @@
 # Temperature-Sensor
-In this project I designed a transistor-based temperature sensor and made a reference table for it.
+In this project I designed a transistor-based temperature sensor and made a reference chart for it.
 
 
 We used a BJT transistor, a diode, some resistors, a potentiometer and an LED, which will show us the temperature by the intensity of the LED light. By checking "Chart.Png" file in "Image" directory you will be able to realize the ambient temperature that is related to the LED's Current.
